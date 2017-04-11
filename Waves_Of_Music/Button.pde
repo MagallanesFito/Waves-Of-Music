@@ -72,7 +72,7 @@ class Button{
         HAZ ALGO
         
         *******/
-        print("Button clicked!\n");
+        print("Botón presionado!\n");
         //Genera un retraso para evitar errores de sincronizacion con el ciclo draw()
         delay(250);
     }
