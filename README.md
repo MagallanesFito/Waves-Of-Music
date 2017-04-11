@@ -1,4 +1,2 @@
 # Waves-Of-Music
-Proyecto Student Innovation Challenge 2017
-
-
+Proyecto World Haptics 2017
